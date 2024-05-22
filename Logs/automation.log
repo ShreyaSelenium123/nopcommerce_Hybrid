@@ -1,0 +1,37 @@
+2024-05-14 11:48:07: INFO: ***** Test_003_AddCustomer ****
+2024-05-14 11:48:10: INFO: ***** Login succesful ****
+2024-05-14 11:48:10: INFO: *** Starting Add Customer Test ****
+2024-05-14 11:49:30: INFO: ***** Test_003_AddCustomer ****
+2024-05-14 11:49:33: INFO: ***** Login succesful ****
+2024-05-14 11:49:33: INFO: *** Starting Add Customer Test ****
+2024-05-14 11:49:35: INFO: ***** Providing customer info ****
+2024-05-14 11:49:37: INFO: ***** Saving customer info ****
+2024-05-14 11:49:37: INFO: *** Add customer validation started *******
+2024-05-14 11:49:38: INFO: *** Add customer Test Passed ***
+2024-05-14 11:49:38: INFO: *** Ending Add customer test ****
+2024-05-14 11:51:50: INFO: ***Starting Test_002_DDT_Login*****
+2024-05-14 11:51:50: INFO: ***Starting Login DD Test*****
+2024-05-14 11:51:58: INFO: ** Passed ***
+2024-05-14 11:52:05: INFO: ** Passed ***
+2024-05-14 11:52:07: INFO: ***** Test_003_AddCustomer ****
+2024-05-14 11:52:11: INFO: ***** Login succesful ****
+2024-05-14 11:52:11: INFO: *** Starting Add Customer Test ****
+2024-05-14 11:52:13: INFO: ***** Providing customer info ****
+2024-05-14 11:52:15: INFO: ***** Saving customer info ****
+2024-05-14 11:52:15: INFO: *** Add customer validation started *******
+2024-05-14 11:52:15: INFO: *** Add customer Test Passed ***
+2024-05-14 11:52:15: INFO: *** Ending Add customer test ****
+2024-05-14 11:52:17: INFO: ************Test_001_log***************
+2024-05-14 11:52:17: INFO: ************Verifying Home Page***************
+2024-05-14 11:52:18: INFO: *****************Home Page title test is Passed*******************
+2024-05-14 11:52:19: INFO: *****************To Verify Login page *******************
+2024-05-14 11:52:24: INFO: *****************Login Page test is Passed*******************
+2024-05-16 11:53:45: INFO: ***** SearchCustomerByEmail_004 ****
+2024-05-16 11:53:49: INFO: ***** Login succesful ****
+2024-05-16 11:53:49: INFO: *** Starting Search Customer By Email ****
+2024-05-16 11:54:05: INFO: ***** searching customer by emailID ****
+2024-05-16 11:54:09: INFO: *****  TC_SearchCustomerByEmail_004 Finished  ***** 
+2024-05-16 11:54:39: INFO: ***** SearchCustomerByEmail_004 ****
+2024-05-16 11:54:43: INFO: ***** Login succesful ****
+2024-05-16 11:54:43: INFO: *** Starting Search Customer By Email ****
+2024-05-16 11:54:59: INFO: ***** searching customer by emailID ****

@@ -1,0 +1,1 @@
+pytest -v -s testCases/test_003_add_cutomer_new.py --html=report.html --browser chrome
